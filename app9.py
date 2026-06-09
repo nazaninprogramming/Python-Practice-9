@@ -8,3 +8,6 @@ print(y)
 n = 10
 n *= 10
 print(n)
+w = 20
+w /= 4
+print(w)
